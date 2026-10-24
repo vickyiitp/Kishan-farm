@@ -1,20 +1,29 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🌾 Kishan Farm — Direct Farm-to-Consumer AgriTech Platform
+### Transparent Produce Marketplace Connecting Independent Growers Directly to Buyers
+
+[![Vite](https://img.shields.io/badge/Vite-Fast%20Bundler-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-AgriTech%20UI-06B6D4?style=for-the-badge)](https://tailwindcss.com/)
+[![Architect](https://img.shields.io/badge/Architect-Vicky%20Kumar-8b5cf6?style=for-the-badge&logo=github)](https://github.com/vickyiitp)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚜 System Overview
 
-View your app in AI Studio: https://ai.studio/apps/1234e838-37f8-4bf1-8968-087ed1c8abc1
+Kishan Farm eliminates predatory middlemen in agricultural commerce:
+- 🌾 **Live Produce Listing**: Farmers can post daily harvests with real-time pricing and crop grade certification.
+- 🚚 **Direct Procurement**: Wholesalers, restaurants, and retail consumers order straight from the field.
+- 📱 **Multi-Lingual Localization**: Designed for seamless accessibility across regional farmer communities.
 
-## Run Locally
+```bash
+git clone https://github.com/vickyiitp/Kishan-farm.git
+cd Kishan-farm
+npm install
+npm run dev
+```
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Built with ❤️ by **Vicky Kumar** (IIT Patna)
